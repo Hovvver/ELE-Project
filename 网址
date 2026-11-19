@@ -4,3 +4,11 @@
 4. 利用74LS48七段译码器和共阴极七段数码管进行译码显示实验：https://blog.csdn.net/weixin_56661223/article/details/134270925
 5. 数值比较器：https://blog.csdn.net/qq_45766606/article/details/129339549
 6. 扬声器原理：https://www.cnblogs.com/Wilson-hhx/p/12061097.html
+7. 基于ICL7107的便携式电子秤设计：从传感器到A/D转换的完整调试指南: https://blog.csdn.net/weixin_28285943/article/details/170130849
+8. 双运放仪表放大器电路: https://www.ti.com.cn/cn/lit/an/zhca849a/zhca849a.pdf?ts=1794803263286
+9. 二进制转BCD码原理及verilog实现: https://blog.csdn.net/eroDuanDian123456/article/details/122551060
+10. 二进制转BCD码电路基于Multisim仿真: https://blog.csdn.net/weixin_52614629/article/details/131912904
+11. 74ls283引脚图及功能: https://wenku.csdn.net/answer/63e95828015e41208f8c38e6f89bf5f2
+12. 时序电路-移位寄存器-74LS194 Multism仿真: https://blog.csdn.net/qq_63016419/article/details/139885994
+13. 基于Multisim的74LS194移位寄存器仿真与应用实践: https://blog.csdn.net/weixin_42613360/article/details/153547365
+14. 用74LS161构建多位计数器Multisim仿真实验: https://zhuanlan.zhihu.com/p/373182197
